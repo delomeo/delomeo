@@ -3,13 +3,17 @@ Computer Vision Engineer | I teach machines to see the world—better, faster, s
 
 🚀 My Mission: Building and optimizing end-to-end vision pipelines. From raw data to production, I specialize in bringing high performance to complex Deep Learning models.
 
-<br>🧠 The Stack:<br>Deep Learning: PyTorch, TensorFlow 
+🧠 The Stack: <br>
+Deep Learning: PyTorch, TensorFlow 
 
-⚡️<br>Vision Tools: OpenCV, MMDetection, Yolo 
+⚡️ Vision Tools: <br>
+OpenCV, MMDetection, Yolo 
 
-🖼️<br>Acceleration: CUDA, TensorRT, GPU Optimization 
+🖼️ Acceleration: <br>
+CUDA, TensorRT, GPU Optimization 
 
-⚙️<br>Language: Python and Rust 🐍🦀<br>
+⚙️ Language: <br>
+Python and Rust 🐍🦀<br>
 
 <br>Give me a detection challenge, and I'll deliver an optimized solution that makes GPUs sweat.
 
