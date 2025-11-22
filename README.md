@@ -13,7 +13,7 @@ OpenCV, MMDetection, Yolo
 CUDA, TensorRT, GPU Optimization 
 
 ⚙️ Language: <br>
-Python and Rust 🐍🦀<br>
+Python, C++, and Rust <br>
 
 <br>Give me a detection challenge, and I'll deliver an optimized solution that makes GPUs sweat.
 
